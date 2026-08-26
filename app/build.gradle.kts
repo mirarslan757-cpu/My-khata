@@ -10,8 +10,8 @@ plugins {
 }
 
 android {
-  namespace = "com.example
-compilesdk=36
+  namespace = "com.example"
+compileSdk=36
 
   defaultConfig {
     applicationId = "com.aistudio.khata.dailytracker"
